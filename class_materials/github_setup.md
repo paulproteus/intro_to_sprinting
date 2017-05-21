@@ -46,6 +46,7 @@ Fork the [Codeless Project](https://github.com/chalmerlowe/intro_to_sprinting_co
 **NOTE**:  The fork refers back to the original repo - if you look under your repo name, you'll see it's "forked from chalmerlowe/intro\_to\_sprinting\_codeless\_project:"<br>
 ![Fork link to original repo](images/fork-repo-link.png)
 
+![green sticky note](images/Sticky-Note-02-Green-300px.png)
 
 ## The big picture
 
