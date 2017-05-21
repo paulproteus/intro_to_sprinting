@@ -46,6 +46,13 @@ Fork the [Codeless Project](https://github.com/chalmerlowe/intro_to_sprinting_co
 **NOTE**:  The fork refers back to the original repo - if you look under your repo name, you'll see it's "forked from chalmerlowe/intro\_to\_sprinting\_codeless\_project:"<br>
 ![Fork link to original repo](images/fork-repo-link.png)
 
+## Done with commands for now!
+
+If you (if you're working in pairs, you and your partner) are done, then now you can put your green sticky up! This is how we know you're done with the commands.
+
+![green sticky note](images/Sticky-Note-02-Green-300px.png)
+
+If you like reading, you can also keep reading this page.
 
 ## The big picture
 
